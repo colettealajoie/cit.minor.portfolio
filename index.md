@@ -1,4 +1,3 @@
-
 CIT MINOR PORTFOLIO:
 
 CIT 281 Projects and Labs
@@ -13,6 +12,4 @@ Project 3:
 Project 4:
 
 
-
-
-46074315_10215295277486738_1930415446809378816_n.jpg
+![Snow](Users\colet\OneDrive\Documents\CSClasses\cit281\p7\snow.jpg)
