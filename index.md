@@ -2,10 +2,13 @@ CIT MINOR PORTFOLIO:
 
 CIT 281 Projects and Labs
 
-Project 1: [Link Text](https://github.com/colettealajoie/cit281-p1)
-Project 2:
-Project 3:
-Project 4:
+Project 1: [Command line interface](https://github.com/colettealajoie/cit281-p1)
+
+Project 2: [Git and VSCode](https://github.com/colettealajoie/cit281-p2)
+
+Project 3: [Fastify, non-web server Node.js JavaScript code using VSCode](https://github.com/colettealajoie/cit281-p3)
+
+Project 4: [Node.js REST API server, Fastify, Postman, JSON](https://github.com/colettealajoie/cit281-p4)
 
 
 ![Snow](Users\colet\OneDrive\Documents\CSClasses\cit281\p7\snow.jpg)
